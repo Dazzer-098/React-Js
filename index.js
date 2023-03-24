@@ -1,3 +1,4 @@
+const name = "rahul";
 const Parent = React.createElement(
   "div",
   { id: "parent" },
